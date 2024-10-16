@@ -1,0 +1,390 @@
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 14:52:04 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Meghana.dn\AppData\Local\Temp\testng-eclipse-343584213\testng-customsuite.xml
+
+2024-09-17 14:52:04 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2024-09-17 14:52:06 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+2024-09-17 14:52:06 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Meghana.dn\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+2024-09-17 14:52:07 INFO  TC_001_AccountRegisterationPage:45 - ******chrome browser lanuched succesfully *****
+2024-09-17 14:52:09 INFO  TC_001_AccountRegisterationPage:50 -  ****** Application tutorialsninja.com  launched succesfully *****
+2024-09-17 14:52:09 INFO  TC_001_AccountRegisterationPage:14 - ***** Started TC_001_AccountRegisterationPage *****
+2024-09-17 14:52:09 INFO  TC_001_AccountRegisterationPage:17 - ***** clicked on Account menu ***** 
+2024-09-17 14:52:09 INFO  TC_001_AccountRegisterationPage:19 - ***** clicked on Register menu ***** 
+2024-09-17 14:52:09 INFO  TC_001_AccountRegisterationPage:21 - ***** Entered all customer information ***** 
+2024-09-17 14:52:10 INFO  TC_001_AccountRegisterationPage:31 - ***** clicked Continues button ***** 
+2024-09-17 14:52:10 INFO  TC_001_AccountRegisterationPage:32 - ***** Ended TC_001_AccountRegisterationPage *****
+2024-09-17 14:52:10 INFO  TC_001_AccountRegisterationPage:56 - ****** Chrome browser closed succesfully *****
+2024-09-17 14:52:10 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+2024-09-17 14:52:10 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Meghana.dn\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+2024-09-17 14:52:11 INFO  TC_001_AccountRegisterationPage:45 - ******chrome browser lanuched succesfully *****
+2024-09-17 14:52:13 INFO  TC_001_AccountRegisterationPage:50 -  ****** Application tutorialsninja.com  launched succesfully *****
+2024-09-17 14:52:13 INFO  TC_001_AccountRegisterationPage:43 - ***** Started TC_002_verify_Warning_message_for_madatory_field *****
+2024-09-17 14:52:13 INFO  TC_001_AccountRegisterationPage:46 - ***** clicked on Account menu ***** 
+2024-09-17 14:52:13 INFO  TC_001_AccountRegisterationPage:48 - ***** clicked on Register menu ***** 
+2024-09-17 14:52:13 INFO  TC_001_AccountRegisterationPage:50 - ***** Entered all customer information ***** 
+2024-09-17 14:52:14 INFO  TC_001_AccountRegisterationPage:60 - ***** Ended TC_002_verify_Warning_message_for_madatory_field *****
+2024-09-17 14:52:14 INFO  TC_001_AccountRegisterationPage:56 - ****** Chrome browser closed succesfully *****
+2024-09-17 14:52:14 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+2024-09-17 14:52:14 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Meghana.dn\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+2024-09-17 14:52:15 INFO  TC_001_AccountRegisterationPage:45 - ******chrome browser lanuched succesfully *****
+2024-09-17 14:52:16 INFO  TC_001_AccountRegisterationPage:50 -  ****** Application tutorialsninja.com  launched succesfully *****
+2024-09-17 14:52:16 INFO  TC_001_AccountRegisterationPage:69 - ***** Started TC_003_verify_notification_message_for_mandatoryField *****
+2024-09-17 14:52:16 INFO  TC_001_AccountRegisterationPage:72 - ***** clicked on Account menu ***** 
+2024-09-17 14:52:17 INFO  TC_001_AccountRegisterationPage:74 - ***** clicked on Register menu ***** 
+2024-09-17 14:52:17 INFO  TC_001_AccountRegisterationPage:76 - ***** Entered all customer information as empty***** 
+2024-09-17 14:52:17 INFO  TC_001_AccountRegisterationPage:84 - ***** Ended TC_003_verify_notification_message_for_mandatoryField *****
+2024-09-17 14:52:18 INFO  TC_001_AccountRegisterationPage:56 - ****** Chrome browser closed succesfully *****
+2024-09-17 14:52:18 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@1376883: 28 ms
+2024-09-17 14:52:18 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@4ea17147: 64 ms
+2024-09-17 14:52:18 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@2eda4eeb: 1 ms
+2024-09-17 14:52:18 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@543d5863: 10 ms
+2024-09-17 14:52:18 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5d508d22: 6 ms
+2024-09-17 14:52:18 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@79a13920: 5 ms
+2024-09-17 14:52:18 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@182e7eda: 0 ms
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 14:56:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Meghana.dn\AppData\Local\Temp\testng-eclipse--505988975\testng-customsuite.xml
+
+2024-09-17 14:56:07 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2024-09-17 14:56:08 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+2024-09-17 14:56:08 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Meghana.dn\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+2024-09-17 14:56:10 INFO  TC_001_AccountRegisterationPage:45 - ******chrome browser lanuched succesfully *****
+2024-09-17 14:56:11 INFO  TC_001_AccountRegisterationPage:50 -  ****** Application tutorialsninja.com  launched succesfully *****
+2024-09-17 14:56:11 INFO  TC_001_AccountRegisterationPage:14 - ***** Started TC_001_AccountRegisterationPage *****
+2024-09-17 14:56:11 INFO  TC_001_AccountRegisterationPage:17 - ***** clicked on Account menu ***** 
+2024-09-17 14:56:11 INFO  TC_001_AccountRegisterationPage:19 - ***** clicked on Register menu ***** 
+2024-09-17 14:56:11 INFO  TC_001_AccountRegisterationPage:21 - ***** Entered all customer information ***** 
+2024-09-17 14:56:12 INFO  TC_001_AccountRegisterationPage:31 - ***** clicked Continues button ***** 
+2024-09-17 14:56:12 INFO  TC_001_AccountRegisterationPage:32 - ***** Ended TC_001_AccountRegisterationPage *****
+2024-09-17 14:56:12 INFO  TC_001_AccountRegisterationPage:56 - ****** Chrome browser closed succesfully *****
+2024-09-17 14:56:12 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+2024-09-17 14:56:12 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Meghana.dn\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+2024-09-17 14:56:14 INFO  TC_001_AccountRegisterationPage:45 - ******chrome browser lanuched succesfully *****
+2024-09-17 14:56:15 INFO  TC_001_AccountRegisterationPage:50 -  ****** Application tutorialsninja.com  launched succesfully *****
+2024-09-17 14:56:15 INFO  TC_001_AccountRegisterationPage:43 - ***** Started TC_002_verify_Warning_message_for_madatory_field *****
+2024-09-17 14:56:15 INFO  TC_001_AccountRegisterationPage:46 - ***** clicked on Account menu ***** 
+2024-09-17 14:56:15 INFO  TC_001_AccountRegisterationPage:48 - ***** clicked on Register menu ***** 
+2024-09-17 14:56:15 INFO  TC_001_AccountRegisterationPage:50 - ***** Entered all customer information ***** 
+2024-09-17 14:56:16 INFO  TC_001_AccountRegisterationPage:60 - ***** Ended TC_002_verify_Warning_message_for_madatory_field *****
+2024-09-17 14:56:16 INFO  TC_001_AccountRegisterationPage:56 - ****** Chrome browser closed succesfully *****
+2024-09-17 14:56:16 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+2024-09-17 14:56:16 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Meghana.dn\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+2024-09-17 14:56:17 INFO  TC_001_AccountRegisterationPage:45 - ******chrome browser lanuched succesfully *****
+2024-09-17 14:56:18 INFO  TC_001_AccountRegisterationPage:50 -  ****** Application tutorialsninja.com  launched succesfully *****
+2024-09-17 14:56:18 INFO  TC_001_AccountRegisterationPage:69 - ***** Started TC_003_verify_notification_message_for_mandatoryField *****
+2024-09-17 14:56:18 INFO  TC_001_AccountRegisterationPage:72 - ***** clicked on Account menu ***** 
+2024-09-17 14:56:19 INFO  TC_001_AccountRegisterationPage:74 - ***** clicked on Register menu ***** 
+2024-09-17 14:56:19 INFO  TC_001_AccountRegisterationPage:76 - ***** Entered all customer information as empty***** 
+2024-09-17 14:56:20 INFO  TC_001_AccountRegisterationPage:86 - ***** Ended TC_003_verify_notification_message_for_mandatoryField *****
+2024-09-17 14:56:20 INFO  TC_001_AccountRegisterationPage:56 - ****** Chrome browser closed succesfully *****
+2024-09-17 14:56:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@2262d6d5: 27 ms
+2024-09-17 14:56:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@40c2ce52: 47 ms
+2024-09-17 14:56:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@18a19e: 0 ms
+2024-09-17 14:56:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@78cfa264: 67 ms
+2024-09-17 14:56:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@101ca8da: 7 ms
+2024-09-17 14:56:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@610d28b8: 5 ms
+2024-09-17 14:56:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@53c99b09: 0 ms
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 15:04:55 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Meghana.dn\AppData\Local\Temp\testng-eclipse-490273712\testng-customsuite.xml
+
+2024-09-17 15:04:55 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2024-09-17 15:04:56 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+2024-09-17 15:04:56 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Meghana.dn\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+2024-09-17 15:04:58 INFO  TC_001_AccountRegisterationPage:45 - ******chrome browser lanuched succesfully *****
+2024-09-17 15:04:58 INFO  TC_001_AccountRegisterationPage:50 -  ****** Application tutorialsninja.com  launched succesfully *****
+2024-09-17 15:04:58 INFO  TC_001_AccountRegisterationPage:14 - ***** Started TC_001_AccountRegisterationPage *****
+2024-09-17 15:04:59 INFO  TC_001_AccountRegisterationPage:17 - ***** clicked on Account menu ***** 
+2024-09-17 15:04:59 INFO  TC_001_AccountRegisterationPage:19 - ***** clicked on Register menu ***** 
+2024-09-17 15:04:59 INFO  TC_001_AccountRegisterationPage:21 - ***** Entered all customer information ***** 
+2024-09-17 15:05:00 INFO  TC_001_AccountRegisterationPage:31 - ***** clicked Continues button ***** 
+2024-09-17 15:05:00 INFO  TC_001_AccountRegisterationPage:32 - ***** Ended TC_001_AccountRegisterationPage *****
+2024-09-17 15:05:00 INFO  TC_001_AccountRegisterationPage:56 - ****** Chrome browser closed succesfully *****
+2024-09-17 15:05:00 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+2024-09-17 15:05:00 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Meghana.dn\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+2024-09-17 15:05:01 INFO  TC_001_AccountRegisterationPage:45 - ******chrome browser lanuched succesfully *****
+2024-09-17 15:05:03 INFO  TC_001_AccountRegisterationPage:50 -  ****** Application tutorialsninja.com  launched succesfully *****
+2024-09-17 15:05:03 INFO  TC_001_AccountRegisterationPage:43 - ***** Started TC_002_verify_Warning_message_for_madatory_field *****
+2024-09-17 15:05:03 INFO  TC_001_AccountRegisterationPage:46 - ***** clicked on Account menu ***** 
+2024-09-17 15:05:04 INFO  TC_001_AccountRegisterationPage:48 - ***** clicked on Register menu ***** 
+2024-09-17 15:05:04 INFO  TC_001_AccountRegisterationPage:50 - ***** Entered all customer information ***** 
+2024-09-17 15:05:05 INFO  TC_001_AccountRegisterationPage:60 - ***** Ended TC_002_verify_Warning_message_for_madatory_field *****
+2024-09-17 15:05:05 INFO  TC_001_AccountRegisterationPage:56 - ****** Chrome browser closed succesfully *****
+2024-09-17 15:05:05 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+2024-09-17 15:05:05 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Meghana.dn\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+2024-09-17 15:05:06 INFO  TC_001_AccountRegisterationPage:45 - ******chrome browser lanuched succesfully *****
+2024-09-17 15:05:07 INFO  TC_001_AccountRegisterationPage:50 -  ****** Application tutorialsninja.com  launched succesfully *****
+2024-09-17 15:05:07 INFO  TC_001_AccountRegisterationPage:69 - ***** Started TC_003_verify_notification_message_for_mandatoryField *****
+2024-09-17 15:05:07 INFO  TC_001_AccountRegisterationPage:72 - ***** clicked on Account menu ***** 
+2024-09-17 15:05:07 INFO  TC_001_AccountRegisterationPage:74 - ***** clicked on Register menu ***** 
+2024-09-17 15:05:07 INFO  TC_001_AccountRegisterationPage:76 - ***** Entered all customer information as empty***** 
+2024-09-17 15:05:08 INFO  TC_001_AccountRegisterationPage:118 - ***** Ended TC_003_verify_notification_message_for_mandatoryField *****
+2024-09-17 15:05:08 INFO  TC_001_AccountRegisterationPage:56 - ****** Chrome browser closed succesfully *****
+2024-09-17 15:05:08 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@3c0e00a8: 35 ms
+2024-09-17 15:05:09 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@310ed6b4: 78 ms
+2024-09-17 15:05:09 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@640cc04b: 1 ms
+2024-09-17 15:05:09 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@2d74c81b: 14 ms
+2024-09-17 15:05:09 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2fb25f4c: 12 ms
+2024-09-17 15:05:09 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@642a16aa: 10 ms
+2024-09-17 15:05:09 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@642ee49c: 0 ms
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 15:05:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Meghana.dn\AppData\Local\Temp\testng-eclipse-1280810108\testng-customsuite.xml
+
+2024-09-17 15:05:35 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2024-09-17 15:05:36 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+2024-09-17 15:05:36 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Meghana.dn\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+2024-09-17 15:05:37 INFO  TC_001_AccountRegisterationPage:45 - ******chrome browser lanuched succesfully *****
+2024-09-17 15:05:38 INFO  TC_001_AccountRegisterationPage:50 -  ****** Application tutorialsninja.com  launched succesfully *****
+2024-09-17 15:05:38 INFO  TC_001_AccountRegisterationPage:14 - ***** Started TC_001_AccountRegisterationPage *****
+2024-09-17 15:05:38 INFO  TC_001_AccountRegisterationPage:17 - ***** clicked on Account menu ***** 
+2024-09-17 15:05:39 INFO  TC_001_AccountRegisterationPage:19 - ***** clicked on Register menu ***** 
+2024-09-17 15:05:39 INFO  TC_001_AccountRegisterationPage:21 - ***** Entered all customer information ***** 
+2024-09-17 15:05:39 INFO  TC_001_AccountRegisterationPage:31 - ***** clicked Continues button ***** 
+2024-09-17 15:05:39 INFO  TC_001_AccountRegisterationPage:32 - ***** Ended TC_001_AccountRegisterationPage *****
+2024-09-17 15:05:40 INFO  TC_001_AccountRegisterationPage:56 - ****** Chrome browser closed succesfully *****
+2024-09-17 15:05:40 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+2024-09-17 15:05:40 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Meghana.dn\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+2024-09-17 15:05:41 INFO  TC_001_AccountRegisterationPage:45 - ******chrome browser lanuched succesfully *****
+2024-09-17 15:05:42 INFO  TC_001_AccountRegisterationPage:50 -  ****** Application tutorialsninja.com  launched succesfully *****
+2024-09-17 15:05:42 INFO  TC_001_AccountRegisterationPage:43 - ***** Started TC_002_verify_Warning_message_for_madatory_field *****
+2024-09-17 15:05:42 INFO  TC_001_AccountRegisterationPage:46 - ***** clicked on Account menu ***** 
+2024-09-17 15:05:42 INFO  TC_001_AccountRegisterationPage:48 - ***** clicked on Register menu ***** 
+2024-09-17 15:05:42 INFO  TC_001_AccountRegisterationPage:50 - ***** Entered all customer information ***** 
+2024-09-17 15:05:43 INFO  TC_001_AccountRegisterationPage:60 - ***** Ended TC_002_verify_Warning_message_for_madatory_field *****
+2024-09-17 15:05:43 INFO  TC_001_AccountRegisterationPage:56 - ****** Chrome browser closed succesfully *****
+2024-09-17 15:05:43 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+2024-09-17 15:05:43 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Meghana.dn\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+2024-09-17 15:05:44 INFO  TC_001_AccountRegisterationPage:45 - ******chrome browser lanuched succesfully *****
+2024-09-17 15:05:45 INFO  TC_001_AccountRegisterationPage:50 -  ****** Application tutorialsninja.com  launched succesfully *****
+2024-09-17 15:05:45 INFO  TC_001_AccountRegisterationPage:69 - ***** Started TC_003_verify_notification_message_for_mandatoryField *****
+2024-09-17 15:05:46 INFO  TC_001_AccountRegisterationPage:72 - ***** clicked on Account menu ***** 
+2024-09-17 15:05:46 INFO  TC_001_AccountRegisterationPage:74 - ***** clicked on Register menu ***** 
+2024-09-17 15:05:46 INFO  TC_001_AccountRegisterationPage:76 - ***** Entered all customer information as empty***** 
+2024-09-17 15:05:47 INFO  TC_001_AccountRegisterationPage:118 - ***** Ended TC_003_verify_notification_message_for_mandatoryField *****
+2024-09-17 15:05:47 INFO  TC_001_AccountRegisterationPage:56 - ****** Chrome browser closed succesfully *****
+2024-09-17 15:05:47 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@4887de2b: 28 ms
+2024-09-17 15:05:47 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@60df7989: 63 ms
+2024-09-17 15:05:47 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@7ab1127c: 0 ms
+2024-09-17 15:05:47 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@456bcb74: 16 ms
+2024-09-17 15:05:47 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@781711b7: 8 ms
+2024-09-17 15:05:47 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5f5827d0: 7 ms
+2024-09-17 15:05:47 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@58a2d9f9: 0 ms
+2024-09-17 16:28:44 INFO  Utils:112 - [TestNG] Running:
+  F:\Selenium2024\OpenCart_FrameWork\Project\browsers.xml
+
+2024-09-17 16:28:46 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+2024-09-17 16:28:46 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Meghana.dn\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+2024-09-17 16:28:46 INFO  WebDriverManager:1220 - Using msedgedriver 128.0.2739.79 (resolved driver for Edge 128)
+2024-09-17 16:28:46 INFO  WebDriverManager:1594 - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+2024-09-17 16:28:48 INFO  Downloader:128 - Downloading https://msedgewebdriverstorage.blob.core.windows.net/edgewebdriver/128.0.2739.79/edgedriver_win64.zip
+2024-09-17 16:28:48 INFO  TC_001_AccountRegisterationPage:45 - ******chrome browser lanuched succesfully *****
+2024-09-17 16:28:50 INFO  TC_001_AccountRegisterationPage:50 -  ****** Application tutorialsninja.com  launched succesfully *****
+2024-09-17 16:28:50 INFO  TC_001_AccountRegisterationPage:14 - ***** Started TC_001_AccountRegisterationPage *****
+2024-09-17 16:28:50 INFO  TC_001_AccountRegisterationPage:17 - ***** clicked on Account menu ***** 
+2024-09-17 16:28:50 INFO  TC_001_AccountRegisterationPage:19 - ***** clicked on Register menu ***** 
+2024-09-17 16:28:50 INFO  TC_001_AccountRegisterationPage:21 - ***** Entered all customer information ***** 
+2024-09-17 16:28:52 INFO  TC_001_AccountRegisterationPage:31 - ***** clicked Continues button ***** 
+2024-09-17 16:28:52 INFO  TC_001_AccountRegisterationPage:32 - ***** Ended TC_001_AccountRegisterationPage *****
+2024-09-17 16:28:52 INFO  TC_001_AccountRegisterationPage:56 - ****** Chrome browser closed succesfully *****
+2024-09-17 16:28:52 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+2024-09-17 16:28:52 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Meghana.dn\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+2024-09-17 16:28:54 INFO  TC_001_AccountRegisterationPage:45 - ******chrome browser lanuched succesfully *****
+2024-09-17 16:28:55 INFO  TC_001_AccountRegisterationPage:50 -  ****** Application tutorialsninja.com  launched succesfully *****
+2024-09-17 16:28:55 INFO  TC_001_AccountRegisterationPage:131 - ***** TC_004_verify_different_password_inTo_passwordAndConfirmPassword *****
+2024-09-17 16:28:55 INFO  TC_001_AccountRegisterationPage:134 - ***** clicked on Account menu ***** 
+2024-09-17 16:28:55 INFO  TC_001_AccountRegisterationPage:136 - ***** clicked on Register menu ***** 
+2024-09-17 16:28:55 INFO  TC_001_AccountRegisterationPage:138 - ***** Entered all customer information as empty***** 
+2024-09-17 16:29:16 INFO  TC_001_AccountRegisterationPage:56 - ****** Chrome browser closed succesfully *****
+2024-09-17 16:29:16 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+2024-09-17 16:29:16 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Meghana.dn\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+2024-09-17 16:29:17 INFO  TC_001_AccountRegisterationPage:45 - ******chrome browser lanuched succesfully *****
+2024-09-17 16:29:18 INFO  TC_001_AccountRegisterationPage:50 -  ****** Application tutorialsninja.com  launched succesfully *****
+2024-09-17 16:29:18 INFO  TC_001_AccountRegisterationPage:43 - ***** Started TC_002_verify_Warning_message_for_madatory_field *****
+2024-09-17 16:29:18 INFO  TC_001_AccountRegisterationPage:46 - ***** clicked on Account menu ***** 
+2024-09-17 16:29:19 INFO  TC_001_AccountRegisterationPage:48 - ***** clicked on Register menu ***** 
+2024-09-17 16:29:19 INFO  TC_001_AccountRegisterationPage:50 - ***** Entered all customer information ***** 
+2024-09-17 16:29:19 INFO  TC_001_AccountRegisterationPage:60 - ***** Ended TC_002_verify_Warning_message_for_madatory_field *****
+2024-09-17 16:29:20 INFO  TC_001_AccountRegisterationPage:56 - ****** Chrome browser closed succesfully *****
+2024-09-17 16:29:20 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+2024-09-17 16:29:20 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Meghana.dn\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+2024-09-17 16:29:21 INFO  TC_001_AccountRegisterationPage:45 - ******chrome browser lanuched succesfully *****
+2024-09-17 16:29:22 INFO  TC_001_AccountRegisterationPage:50 -  ****** Application tutorialsninja.com  launched succesfully *****
+2024-09-17 16:29:22 INFO  TC_001_AccountRegisterationPage:69 - ***** Started TC_003_verify_notification_message_for_mandatoryField *****
+2024-09-17 16:29:22 INFO  TC_001_AccountRegisterationPage:72 - ***** clicked on Account menu ***** 
+2024-09-17 16:29:22 INFO  TC_001_AccountRegisterationPage:74 - ***** clicked on Register menu ***** 
+2024-09-17 16:29:22 INFO  TC_001_AccountRegisterationPage:76 - ***** Entered all customer information as empty***** 
+2024-09-17 16:29:23 INFO  TC_001_AccountRegisterationPage:90 - ***** Warning message of FirstName is validating *****
+2024-09-17 16:29:23 INFO  TC_001_AccountRegisterationPage:96 - ***** Warning message of LastName is validating *****
+2024-09-17 16:29:23 INFO  TC_001_AccountRegisterationPage:102 - ***** Warning message of Email is validating *****
+2024-09-17 16:29:23 INFO  TC_001_AccountRegisterationPage:108 - ***** Warning message of Telephone is validating *****
+2024-09-17 16:29:23 INFO  TC_001_AccountRegisterationPage:114 - ***** Warning message of Password is validating *****
+2024-09-17 16:29:23 INFO  TC_001_AccountRegisterationPage:121 - ***** Ended TC_003_verify_notification_message_for_mandatoryField *****
+2024-09-17 16:29:23 INFO  TC_001_AccountRegisterationPage:56 - ****** Chrome browser closed succesfully *****
+2024-09-17 16:30:21 INFO  Downloader:189 - Extracting driver from compressed file edgedriver_win64.zip
+2024-09-17 16:30:22 INFO  WebDriverManager:1282 - Exporting webdriver.edge.driver as C:\Users\Meghana.dn\.cache\selenium\msedgedriver\win64\128.0.2739.79\msedgedriver.exe
+2024-09-17 16:30:24 INFO  TC_001_AccountRegisterationPage:45 - ******edge browser lanuched succesfully *****
+2024-09-17 16:30:25 INFO  TC_001_AccountRegisterationPage:50 -  ****** Application tutorialsninja.com  launched succesfully *****
+2024-09-17 16:30:25 INFO  TC_001_AccountRegisterationPage:14 - ***** Started TC_001_AccountRegisterationPage *****
+2024-09-17 16:30:25 INFO  TC_001_AccountRegisterationPage:17 - ***** clicked on Account menu ***** 
+2024-09-17 16:30:26 INFO  TC_001_AccountRegisterationPage:19 - ***** clicked on Register menu ***** 
+2024-09-17 16:30:26 INFO  TC_001_AccountRegisterationPage:21 - ***** Entered all customer information ***** 
+2024-09-17 16:30:27 INFO  TC_001_AccountRegisterationPage:31 - ***** clicked Continues button ***** 
+2024-09-17 16:30:27 INFO  TC_001_AccountRegisterationPage:32 - ***** Ended TC_001_AccountRegisterationPage *****
+2024-09-17 16:30:27 INFO  TC_001_AccountRegisterationPage:56 - ****** Chrome browser closed succesfully *****
+2024-09-17 16:30:27 INFO  WebDriverManager:1220 - Using msedgedriver 128.0.2739.79 (resolved driver for Edge 128)
+2024-09-17 16:30:27 INFO  WebDriverManager:1282 - Exporting webdriver.edge.driver as C:\Users\Meghana.dn\.cache\selenium\msedgedriver\win64\128.0.2739.79\msedgedriver.exe
+2024-09-17 16:30:30 INFO  TC_001_AccountRegisterationPage:45 - ******edge browser lanuched succesfully *****
+2024-09-17 16:30:31 INFO  TC_001_AccountRegisterationPage:50 -  ****** Application tutorialsninja.com  launched succesfully *****
+2024-09-17 16:30:31 INFO  TC_001_AccountRegisterationPage:131 - ***** TC_004_verify_different_password_inTo_passwordAndConfirmPassword *****
+2024-09-17 16:30:31 INFO  TC_001_AccountRegisterationPage:134 - ***** clicked on Account menu ***** 
+2024-09-17 16:30:31 INFO  TC_001_AccountRegisterationPage:136 - ***** clicked on Register menu ***** 
+2024-09-17 16:30:31 INFO  TC_001_AccountRegisterationPage:138 - ***** Entered all customer information as empty***** 
+2024-09-17 16:30:52 INFO  TC_001_AccountRegisterationPage:56 - ****** Chrome browser closed succesfully *****
+2024-09-17 16:30:52 INFO  WebDriverManager:1220 - Using msedgedriver 128.0.2739.79 (resolved driver for Edge 128)
+2024-09-17 16:30:52 INFO  WebDriverManager:1282 - Exporting webdriver.edge.driver as C:\Users\Meghana.dn\.cache\selenium\msedgedriver\win64\128.0.2739.79\msedgedriver.exe
+2024-09-17 16:30:55 INFO  TC_001_AccountRegisterationPage:45 - ******edge browser lanuched succesfully *****
+2024-09-17 16:30:58 INFO  TC_001_AccountRegisterationPage:50 -  ****** Application tutorialsninja.com  launched succesfully *****
+2024-09-17 16:30:58 INFO  TC_001_AccountRegisterationPage:43 - ***** Started TC_002_verify_Warning_message_for_madatory_field *****
+2024-09-17 16:30:58 INFO  TC_001_AccountRegisterationPage:46 - ***** clicked on Account menu ***** 
+2024-09-17 16:30:58 INFO  TC_001_AccountRegisterationPage:48 - ***** clicked on Register menu ***** 
+2024-09-17 16:30:58 INFO  TC_001_AccountRegisterationPage:50 - ***** Entered all customer information ***** 
+2024-09-17 16:30:59 INFO  TC_001_AccountRegisterationPage:60 - ***** Ended TC_002_verify_Warning_message_for_madatory_field *****
+2024-09-17 16:31:00 INFO  TC_001_AccountRegisterationPage:56 - ****** Chrome browser closed succesfully *****
+2024-09-17 16:31:00 INFO  WebDriverManager:1220 - Using msedgedriver 128.0.2739.79 (resolved driver for Edge 128)
+2024-09-17 16:31:00 INFO  WebDriverManager:1282 - Exporting webdriver.edge.driver as C:\Users\Meghana.dn\.cache\selenium\msedgedriver\win64\128.0.2739.79\msedgedriver.exe
+2024-09-17 16:31:03 INFO  TC_001_AccountRegisterationPage:45 - ******edge browser lanuched succesfully *****
+2024-09-17 16:31:04 INFO  TC_001_AccountRegisterationPage:50 -  ****** Application tutorialsninja.com  launched succesfully *****
+2024-09-17 16:31:04 INFO  TC_001_AccountRegisterationPage:69 - ***** Started TC_003_verify_notification_message_for_mandatoryField *****
+2024-09-17 16:31:04 INFO  TC_001_AccountRegisterationPage:72 - ***** clicked on Account menu ***** 
+2024-09-17 16:31:04 INFO  TC_001_AccountRegisterationPage:74 - ***** clicked on Register menu ***** 
+2024-09-17 16:31:04 INFO  TC_001_AccountRegisterationPage:76 - ***** Entered all customer information as empty***** 
+2024-09-17 16:31:05 INFO  TC_001_AccountRegisterationPage:90 - ***** Warning message of FirstName is validating *****
+2024-09-17 16:31:05 INFO  TC_001_AccountRegisterationPage:96 - ***** Warning message of LastName is validating *****
+2024-09-17 16:31:05 INFO  TC_001_AccountRegisterationPage:102 - ***** Warning message of Email is validating *****
+2024-09-17 16:31:05 INFO  TC_001_AccountRegisterationPage:108 - ***** Warning message of Telephone is validating *****
+2024-09-17 16:31:05 INFO  TC_001_AccountRegisterationPage:114 - ***** Warning message of Password is validating *****
+2024-09-17 16:31:05 INFO  TC_001_AccountRegisterationPage:121 - ***** Ended TC_003_verify_notification_message_for_mandatoryField *****
+2024-09-17 16:31:05 INFO  TC_001_AccountRegisterationPage:56 - ****** Chrome browser closed succesfully *****
+2024-09-17 16:48:42 INFO  Utils:112 - [TestNG] Running:
+  F:\Selenium2024\OpenCart_FrameWork\Project\smokeTestCases.xml
+
+2024-09-17 17:19:39 INFO  Utils:112 - [TestNG] Running:
+  F:\Selenium2024\OpenCart_FrameWork\Project\smokeTestCases.xml
+
